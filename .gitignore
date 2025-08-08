@@ -21,6 +21,8 @@ pids
 .env
 .env.local
 .env.*.local
+/backend/.env
+/frontend/.env
 
 # Tailwind-specific
 tailwind.config.js
