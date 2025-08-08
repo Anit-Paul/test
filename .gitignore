@@ -1,0 +1,48 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build output (depends on your setup)
+/frontend/public/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Tailwind-specific
+tailwind.config.js
+tailwind.config.ts
+
+# PostCSS (if used)
+postcss.config.js
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+*.swo
+
+# Cache and temp
+.npm/
+.cache/
+.tmp/
+*.tsbuildinfo
+
+# Testing / coverage
+coverage/
